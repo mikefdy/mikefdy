@@ -92,7 +92,7 @@ passions:
 <div align="center">
 
 [![SoundCloud](https://img.shields.io/badge/Working%20at-SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com)
-[![Revyu AI](https://img.shields.io/badge/Building%20at-Revyu%20AI-7C3AED?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](#)
+[![Revyu AI](https://img.shields.io/badge/Building%20at-Revyu%20AI-7C3AED?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](#https://revyu.ai)
 
 </div>
 
