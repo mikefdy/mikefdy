@@ -61,22 +61,9 @@ passions:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mikefdy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikefdy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mikefdy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikefdy&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikefdy&theme=tokyonight&utcOffset=0" height="180"/>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mikefdy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -109,17 +96,6 @@ passions:
 
 </div>
 
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-</div>
 
 ---
 
