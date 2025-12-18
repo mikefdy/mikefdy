@@ -2,7 +2,9 @@
   
 # Hey there! 👋 I'm Mike
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Infrastructure+Engineer+%40+SoundCloud+%F0%9F%8E%B5;Full+Stack+Developer+%40+Revyu+AI+%F0%9F%A4%96;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=800&lines=Infrastructure+Engineer+%40+SoundCloud+%F0%9F%8E%B5;Full+Stack+Developer+%40+Revyu+AI+%F0%9F%A4%96;Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+
+### Dorky Tech Joke for the Day:
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%23ff6b6b&aColor=%2382aaff" alt="Jokes Card" />
 
@@ -21,8 +23,7 @@ current_roles:
 passions:
   - Scaling systems that serve millions
   - Building AI-powered applications
-  - Making infrastructure invisible (but rock solid)
-motto: "If it's not automated, it's not done"
+  - Doing everything at my best
 ```
 
 ---
@@ -130,47 +131,4 @@ motto: "If it's not automated, it's not done"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mikefdy&color=blueviolet&style=for-the-badge)
 
-</div>
 
----
-
-## 🐍 Snake Animation Setup
-
-To get the snake animation working, create a file `.github/workflows/snake.yml` in your profile repo with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: mikefdy
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then run the workflow manually once, and you're all set! 🎉
-
----
-
-<div align="center">
-
-**⭐ Star some repos if you found them useful! ⭐**
-
-</div>
